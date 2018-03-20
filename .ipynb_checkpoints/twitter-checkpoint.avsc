@@ -1,0 +1,10 @@
+{
+    "name": "TwitterEvent",
+    "type": "record",
+    "fields": [
+        {"name": "id", "type": "string"},
+        {"name": "source", "type": "string"},
+        {"name": "text", "type": "string"},
+        {"name": "lang", "type": "string"}
+    ]
+}
